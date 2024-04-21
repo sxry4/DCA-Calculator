@@ -21,4 +21,4 @@ This Streamlit application provides an interactive way to calculate and visualiz
 
 ## Run the application
 To run this application locally just open the terminal and type:
-streamlit run DCA.py
+- streamlit run DCA.py
